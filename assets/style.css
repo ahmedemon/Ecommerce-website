@@ -1,6 +1,8 @@
-
+html {
+  scroll-behavior: smooth;
+}
 .hot-label{
-	color: #fff;
+    color: #fff;
     text-transform: uppercase;
     background: #f59524;
     font-size: 8px;
